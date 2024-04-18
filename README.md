@@ -7,7 +7,7 @@
 ## Sprint planning
 -  Velg brukerhistorier for sprint
 -  Opprett tasks fra brukerhistorier
-  - Planning poker og prioritering av tasks
+   - Planning poker og prioritering av tasks
 - Velg tasks til todo
 ## Sprint
 - Utvikling med daily standups / daily scrum
