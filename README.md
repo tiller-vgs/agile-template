@@ -11,6 +11,9 @@
 - Velg tasks til todo
 ## Sprint
 - Utvikling med daily standups / daily scrum
+- Opprett branch for tasks
+  - Main kan ikke pushes direkte til, da den har branch protection
+  - Ferdige endringer merges inn i Main ved å opprette Pull Requests
 ## Sprint review
 - Presenter produkt etter sprint til produkteier
 ## Retrospektiv
