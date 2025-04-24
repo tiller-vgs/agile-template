@@ -20,8 +20,8 @@ assignees: ''
 
 # Importance
 <!-- 
-- An integer estimate how important this user story is.
-- It does not matter if the value is 11 or 200 (200 is simply more important than 11).
+- An integer estimate how important this user story is (Example: 1-10).
+- It does not matter if the value is 3 or 200 (200 is simply more important than 3).
 -->
 
 # Initial Estimation of Effort
